@@ -1,9 +1,6 @@
 # Smart Contracts
 
-The smart contracts can be viewed here: 
-https://github.com/truecasino/contracts
-
-Contract description:
+Contracts description:
 
 1. **TrueCasino.sol**
 
